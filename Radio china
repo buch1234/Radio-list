@@ -5,7 +5,7 @@
   { "url": "http://rme.stream.dicast.fr:8000/rme-192.mp3", "name": "RME 欧洲", "gain": 1 },
   { "url": "https://lhttp.qingting.fm/live/5021912/64k.mp3", "name": "FM 亚洲经典", "gain": 1 },
   { "url": "https://lhttp.qingting.fm/live/5022038/64k.mp3", "name": "CRI 怀旧金曲", "gain": 1 },
-  { "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3", "name": "好 FM", "gain": 1 },
+  { "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3", "name": "好 FM", "gain": 1 }
 
 ]
 

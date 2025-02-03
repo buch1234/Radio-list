@@ -1,22 +1,11 @@
 [
   { "url": "http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3", "name": "n Joy", "gain": 1 },
-  { "url": "http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3", "name": "NDR 2", "gain": 1 },
-  { "url": "http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3", "name": "NDR 1", "gain": 1 },
   { "url": "http://stream.ffn.de/ffn/mp3-192/stream.mp3", "name": "FFN", "gain": 1 },
-  { "url": "http://stream.rockantenne.de/rockantenne/stream/mp3", "name": "ROCK ANTENNE", "gain": 1 },
-  { "url": "https://audio.bmr-radio.de/clubstyle/mp3-192/", "name": "Ballermann Radio", "gain": 1 },
   { "url": "https://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3", "name": "法国 RFI", "gain": 4 },
-  { "url": "http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11.m3u", "name": "美国之音", "gain": 6 },
   { "url": "http://rme.stream.dicast.fr:8000/rme-192.mp3", "name": "RME 欧洲", "gain": 1 },
   { "url": "https://lhttp.qingting.fm/live/5021912/64k.mp3", "name": "FM 亚洲经典", "gain": 1 },
-  { "url": "http://lhttp.qingting.fm/live/4915/64k.mp3", "name": "清晨音乐台", "gain": 1 },
-  { "url": "https://lhttp.qingting.fm/live/5022405/64k.mp3", "name": "Asia FM", "gain": 1 },
-  { "url": "https://lhttp.qingting.fm/live/5021381/64k.mp3", "name": "北京好音乐", "gain": 1 },
-  { "url": "http://livestream.1766.today:1769/live1.mp3", "name": "1766 私房音乐", "gain": 1 },
   { "url": "https://lhttp.qingting.fm/live/5022038/64k.mp3", "name": "CRI 怀旧金曲", "gain": 1 },
   { "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3", "name": "好 FM", "gain": 1 },
-  { "url": "https://lhttp.qingting.fm/live/1223/64k.mp3", "name": "郑州怀旧音乐", "gain": 1 },
-  { "url": "https://lhttp.qingting.fm/live/20071/64k.mp3", "name": "香港亚洲天空", "gain": 1 },
-  { "url": "http://lhttp.qingting.fm/live/274/64k.mp3", "name": "上海动感 101", "gain": 1 }
+
 ]
 

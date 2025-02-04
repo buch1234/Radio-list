@@ -1,5 +1,5 @@
-电台1,http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3
-电台2,http://stream.ffn.de/ffn/mp3-192/stream.mp3
-电台3,https://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
-电台4,http://rme.stream.dicast.fr:8000/rme-192.mp3
+radio1,http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3
+radio2,http://stream.ffn.de/ffn/mp3-192/stream.mp3
+radio3,https://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
+radio4,http://rme.stream.dicast.fr:8000/rme-192.mp3
 

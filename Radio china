@@ -1,11 +1,5 @@
-[
-  { "url": "http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3", "name": "n Joy", "gain": 1 },
-  { "url": "http://stream.ffn.de/ffn/mp3-192/stream.mp3", "name": "FFN", "gain": 1 },
-  { "url": "https://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3", "name": "法国 RFI", "gain": 4 },
-  { "url": "http://rme.stream.dicast.fr:8000/rme-192.mp3", "name": "RME 欧洲", "gain": 1 },
-  { "url": "https://lhttp.qingting.fm/live/5021912/64k.mp3", "name": "FM 亚洲经典", "gain": 1 },
-  { "url": "https://lhttp.qingting.fm/live/5022038/64k.mp3", "name": "CRI 怀旧金曲", "gain": 1 },
-  { "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3", "name": "好 FM", "gain": 1 }
-
-]
+电台1,http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3
+电台2,http://stream.ffn.de/ffn/mp3-192/stream.mp3
+电台3,https://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
+电台4,http://rme.stream.dicast.fr:8000/rme-192.mp3
 

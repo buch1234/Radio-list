@@ -1,32 +1,15 @@
-{ "https://live.bjradio.com:8000/bjfm91.mp3", "北京文艺广播", 1 },
-{ "https://www.eastday.com/efm8.m3u", "上海文艺广播", 1 },
-{ "https://live.gzyfm.com:8000/guangzhou_news.mp3", "广州文艺广播", 1 },
-{ "https://www.szrt.com:8000/szrt.m3u", "深圳文艺广播", 1 },
-{ "https://www.chengdufm.com/live/cdfm5.m3u", "成都文艺广播", 1 },
-{ "https://live.bjradio.com:8000/bjfm93.mp3", "书香北京", 1 },
-{ "https://tianjin.radiostream.migu.cn/stream/1034.m3u", "天津文学广播", 1 },
-{ "https://hz1.migu.cn/stream/hunan.fm1.m3u", "湖南文艺广播", 1 },
-{ "https://www.zjradio.com:8000/zzfm.m3u", "浙江文艺广播", 1 },
-{ "https://live.kmradio.com:8000/kmradio.m3u", "云南文艺广播", 1 },
-{ "https://live.bjradio.com:8000/bjfm91.mp3", "北京广播综合频道", 1 },
-{ "https://www.eastday.com/efm8.m3u", "上海东方广播电台", 1 },
-{ "https://live.gzyfm.com:8000/guangzhou_news.mp3", "广州娱乐广播", 1 },
-{ "https://tianjin.radiostream.migu.cn/stream/1034.m3u", "天津广播娱乐频道", 1 },
-{ "https://61.139.93.67:8000/chongqing_traffic.m3u", "重庆娱乐广播", 1 },
-{ "https://hz1.migu.cn/stream/hunan.fm1.m3u", "湖南娱乐广播", 1 },
-{ "https://www.chengdufm.com/live/cdfm5.m3u", "成都娱乐广播", 1 },
-{ "https://live.zzradio.com:8000/zzradio_news.m3u", "郑州娱乐广播", 1 },
-{ "https://www.xafm.cn:8000/xa_music.m3u", "西安娱乐广播", 1 },
-{ "https://61.144.226.186:8000/shenyang_radio.mp3", "沈阳娱乐广播", 1 },
-{ "https://live.bjradio.com:8000/bjfm91.mp3", "北京新闻广播", 1 },
-{ "https://www.eastday.com/efm8.m3u", "上海新闻广播", 1 },
-{ "https://live.gzyfm.com:8000/guangzhou_news.mp3", "广州新闻广播", 1 },
-{ "https://tianjin.radiostream.migu.cn/stream/1034.m3u", "天津广播新闻频道", 1 },
-{ "https://61.139.93.67:8000/chongqing_traffic.m3u", "重庆新闻广播", 1 },
-{ "https://hz1.migu.cn/stream/hunan.fm1.m3u", "湖南新闻广播", 1 },
-{ "https://www.chengdufm.com/live/cdfm5.m3u", "成都新闻广播", 1 },
-{ "https://live.zzradio.com:8000/zzradio_news.m3u", "郑州新闻广播", 1 },
-{ "https://www.xafm.cn:8000/xa_music.m3u", "西安新闻广播", 1 },
-{ "https://61.144.226.186:8000/shenyang_radio.mp3", "沈阳新闻广播", 1 },
-{ "https://lhttp.qtfm.cn/live/1275/64k.mp3", "珠海交通", 1 },
-{ "https://lhttp.qtfm.cn/live/1274/64k.mp3", "珠海先锋", 1 },
+n Joy                 http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3
+NDR2                  http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+NDR1                  http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
+FFN                   http://stream.ffn.de/ffn/mp3-192/stream.mp3
+珠海 RGD 先锋 951    https://lhttp.qtfm.cn/live/1274/64k.mp3
+珠海 交通广播         https://lhttp.qtfm.cn/live/1275/64k.mp3
+RFI 华语广播          https://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
+美国之音中文          http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11.m3u
+RME欧洲华语广播       http://rme.stream.dicast.fr:8000/rme-192.mp3
+Asia FM 亚洲经典台   https://lhttp.qingting.fm/live/5021912/64k.mp3
+清晨音乐台            http://lhttp.qingting.fm/live/4915/64k.mp3
+1766 线上电台         http://livestream.1766.today:1769/live1.mp3
+CRI 怀旧金曲         https://lhttp.qingting.fm/live/5022038/64k.mp3
+好 FM                http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
+郑州怀旧经典          https://lhttp.qingting.fm/live/1223/64k.mp3

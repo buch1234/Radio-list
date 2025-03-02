@@ -1,23 +1,24 @@
-n Joy, http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3, 1
-NDR2, http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3, 1
-NDR Niedersachsen OLD, https://icecast.ndr.de/ndr/ndr1niedersachsen/oldenburg/mp3/128/stream.mp3, 1
-FFN, http://stream.ffn.de/ffn/mp3-192/stream.mp3, 1
-珠海 RGD 先锋 951, https://lhttp.qtfm.cn/live/1274/64k.mp3, 1
-珠海 交通广播, https://lhttp.qtfm.cn/live/1275/64k.mp3, 1
-RFI 华语广播, http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3, 1
-美国之音中文, http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11.m3u, 1
-RME欧洲华语广播, http://rme.stream.dicast.fr:8000/rme-192.mp3, 1
-Asia FM 亚洲经典台, httsp://lhttp.qingting.fm/live/5021912/64k.mp3, 1
-清晨音乐台, https://lhttp.qingting.fm/live/4915/64k.mp3, 1
-亚洲 FM, https://lhttp.qingting.fm/live/5022405/64k.mp3, 1
-北京好音乐广播, https://lhttp.qingting.fm/live/5021381/64k.mp3, 1
-1766 线上电台, http://livestream.1766.today:1769/live1.mp3, 1
-CRI 怀旧金曲, https://lhttp.qingting.fm/live/5022038/64k.mp3, 1
-好 FM, https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3, 1
-郑州怀旧经典, https://ls.qingting.fm/live/1223.m3u8, 1
-江苏经典,https://lhttp.qtfm.cn/live/4938/64k.mp3,1
-AsiaFM高清音乐台,https://live.ximalaya.com/radio-first-page-app/live/764/64.m3u8,1
-经典105·山东经典音乐广播,https://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8,1
-上海浦东FM100.1新娱乐广播,http://lhttp.qingting.fm/live/5022341/64k.mp3,1
-武汉经典音乐广播,https://ls.qingting.fm/live/1297.m3u8,1
-CRI轻松调频,https://sk.cri.cn/915.m3u8,1
+N-JOY, http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3, 1
+NDR 1, http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u, 0
+FFN, https://ffn-stream22.radiohost.de/ffn_mp3-192, 0
+ZZ古典, https://lhttp.qingting.fm/live/1223/64k.mp3, 0
+CRI音乐, https://lhttp.qingting.fm/live/5022038/64k.mp3, 0
+RME中国, http://rme.stream.dicast.fr:8000/rme-192.mp3, 0
+亚洲电台, https://lhttp.qingting.fm/live/5021912/64k.mp3, 0
+1766, http://livestream.1766.today:1769/live1.mp3, 0
+好 FM, http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3, 0
+RFI中国, https://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3, 4
+BBC, http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11.m3u, 15
+珠海 交通, https://lhttp.qtfm.cn/live/1275/64k.mp3, 0
+珠海 先锋, https://lhttp.qtfm.cn/live/1274/64k.mp3, 0
+江苏经典, https://lhttp.qtfm.cn/live/4938/64k.mp3, 0
+河南交通, https://stream.hndt.com/live/jiaotong/playlist.m3u8, 0
+深圳飞扬971, https://lhttp.qtfm.cn/live/1271/64k.mp3, 0
+北京文艺广播, https://lhttp.qtfm.cn/live/333/64k.mp3, 0
+北京音乐广播, https://lhttp.qtfm.cn/live/332/64k.mp3, 0
+湖北古典音乐, https://lhttp.qtfm.cn/live/1296/64k.mp3, 0
+四川文艺广播, https://lhttp.qtfm.cn/live/4887/64k.mp3, 0
+广东交通电台, https://lhttp.qtfm.cn/live/1262/64k.mp3, 0
+青岛私人车主广播, https://lhttp.qtfm.cn/live/1675/64k.mp3, 0
+青岛生活广播, https://lhttp.qtfm.cn/live/20176/64k.mp3, 3
+郑州音乐广播, https://lhttp.qtfm.cn/live/4921/64k.mp3, 0

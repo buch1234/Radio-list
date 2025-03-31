@@ -1,14 +1,16 @@
-N-JOY, http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3, 1
-NDR 1, http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u, 0
-FFN, https://ffn-stream22.radiohost.de/ffn_mp3-192, 0
-郑州经典流行, https://lhttp.qingting.fm/live/1223/64k.mp3, 0
-CRI音乐, https://lhttp.qingting.fm/live/5022038/64k.mp3, 0
-RME中国, http://rme.stream.dicast.fr:8000/rme-192.mp3, 0
-亚洲电台, https://lhttp.qingting.fm/live/5021912/64k.mp3, 0
-1766私房音乐, http://livestream.1766.today:1769/live1.mp3, 0
+N-JOY, http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3, 0
+NDR Niedersachsen, https://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3, 0
+FFN, https://stream.ffn.de/ffn/mp3-192, 0
+80s80s - Love, https://0n-2000s.radionetz.de/0n-80s.mp3, 0
+Blue Night Shadow, https://stream.laut.fm/bluenightshadow, 0
+80s80s - Bowie, https://0n-2000s.radionetz.de/0n-80s.mp3, 0
+Old Skool 102.9, https://cb.streamguys1.com/wqki.mp3, 0
+NDR Blue, https://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3, 0
+0N - 80s, https://0n-2000s.radionetz.de/0n-80s.mp3, 0
+80s Radio, https://0n-2000s.radionetz.de/0n-80s.mp3, 0
 好 FM, http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3, 0
-RFI中国, https://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3, 4
-BBC, http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11.m3u, 15
+RFI法国, https://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3, 4
+Oldie Antenne, https://mp3channels.webradio.antenne.de/oldies-but-goldies, 0
 珠海 交通, https://lhttp.qtfm.cn/live/1275/64k.mp3, 0
 珠海 先锋, https://lhttp.qtfm.cn/live/1274/64k.mp3, 0
 江苏经典, https://lhttp.qtfm.cn/live/4938/64k.mp3, 0
@@ -22,3 +24,4 @@ BBC, http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaist
 青岛私人车主广播, https://lhttp.qtfm.cn/live/1675/64k.mp3, 0
 青岛生活广播, https://lhttp.qtfm.cn/live/20176/64k.mp3, 3
 郑州音乐广播, https://lhttp.qtfm.cn/live/4921/64k.mp3, 0
+郑州经典流行, https://lhttp.qingting.fm/live/1223/64k.mp3, 0

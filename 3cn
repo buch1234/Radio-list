@@ -1,18 +1,22 @@
 N-JOY, http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3, 0
 NDR 1 Niedersachsen, https://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3, 0
 NDR 2, https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3, 0
+Antenne Niedersachsen, https://stream.antenne.com/antenne-nds/mp3-128, 0
+Hitradio Antenne 1, https://stream.antenne1.de/a1stg/livestream2.mp3, 0
 FFN, https://ffn-stream22.radiohost.de/ffn_mp3-192, 0
-N-JOY, http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3, 0
 Absolut Relax, https://edge05.live-sm.absolutradio.de/absolut-relax?__cb=130270101023249, 0
 Rock Antenne, https://mp3channels.webradio.antenne.de/rockantenne-deutschland, 0
 Absolut Hot, https://edge11.live-sm.absolutradio.de/absolut-hot/stream/mp3, 0
-Antenne Niedersachsen, https://stream.antenne.com/antenne-nds/mp3-128, 0
-Hitradio Antenne 1, https://stream.antenne1.de/a1stg/livestream2.mp3, 0
 Rockland Radio, https://streams.rockland.de/neuwied/mp3-192, 0
 动感101, https://lhttp-hw.qtfm.cn/live/274/64k.mp3, 0
 民谣音乐台, https://lhttp-hw.qtfm.cn/live/20207763/64k.mp3, 0
 爵士音乐, https://lhttp-hw.qtfm.cn/live/20207764/64k.mp3, 0
 好 FM, http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3, 0
+西雅图中文电台, https://chineseradioseattle.com/wp-content/uploads/2025/11/11132025_full.mp3, 0
+纽约华语, http://mobilewzrc.serverroom.us:6912/stream.mp3, 0
+热血时评电台, http://mpegts.passiontimes.hk:80/stream/1/mp3, 0
+558 伦敦国际, http://direct.sharp-stream.com/spectrum5.mp3, 0
+讲台, http://103.11.102.62:8000/talkonly.mp3, 0
 RFI法国, https://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3, 4
 988马来西亚, https://playerservices.streamtheworld.com/api/livestream-redirect/988_FM.mp3, 0
 Rthk普通话, https://stm.rthk.hk/radiopth, 0
@@ -22,7 +26,6 @@ Big B 美国, http://antares.dribbcast.com:9800/$1, 0
 珠海 交通, https://lhttp.qtfm.cn/live/1275/64k.mp3, 0
 珠海 先锋, https://lhttp.qtfm.cn/live/1274/64k.mp3, 0
 江苏经典, https://lhttp.qtfm.cn/live/4938/64k.mp3, 0
-河南交通, https://stream.hndt.com/live/jiaotong/playlist.m3u8, 0
 深圳飞扬971, https://lhttp.qtfm.cn/live/1271/64k.mp3, 0
 北京文艺广播, https://lhttp.qtfm.cn/live/333/64k.mp3, 0
 北京音乐广播, https://lhttp.qtfm.cn/live/332/64k.mp3, 0
